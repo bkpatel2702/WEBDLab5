@@ -472,5 +472,5 @@ public class TransactionController {
 ### References
 
 - GitHub Repo: [https://github.com/spkdroid/SpringMVC-Restful/tree/master](https://github.com/spkdroid/SpringMVC-Restful/tree/master).
-- Youtube videos: Seen many youtube videos to learn and the last one I remembered video that I remembered[https://www.youtube.com/watch?v=xSqbWSNR6Ms](https://www.youtube.com/watch?v=xSqbWSNR6Ms)
+- Youtube videos: Seen many youtube videos to learn and the last one I remembered video that I remembered: [https://www.youtube.com/watch?v=xSqbWSNR6Ms](https://www.youtube.com/watch?v=xSqbWSNR6Ms)
 - Took help from some friends to understand the concept of filters
